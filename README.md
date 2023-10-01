@@ -6,6 +6,6 @@ This repository is a curated list of questions and answers related to the wide f
 The curated repository includes the following categories:
 * Probability Interview Questions & Answers for Data Scientists (COMING SOON)
 * Statistics Interview Questions & Answers for Data Scientists (COMING SOON)
-* SQL & DB Interview Questions & Answers for Data Scientists
+* [SQL & DB Interview Questions & Answers for Data Scientists](https://github.com/longnguyendata/Data-Science-Interview-Questions-Answers/blob/main/SQL%20%26%20DB%20Interview%20Questions%20%26%20Answers.md)
 * Python Interview Questions & Answers for Data Scientists (COMING SOON)
 * Machine Learning Interview Questions & Answers for Data Scientists (COMING SOON)
