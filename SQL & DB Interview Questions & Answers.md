@@ -1,4 +1,4 @@
-# SQL & DB Interview Questions & Answers # 
+# SQL & Database Interview Questions & Answers # 
 
 ## Questions ##
 * Q1
