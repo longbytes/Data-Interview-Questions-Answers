@@ -1,7 +1,7 @@
 # Data-Science-Interview-Questions-Answers
 A curated list of data science interview questions and answers
 
-This repository is a curated list of questions and answers related to the wide field of data science. The questions are collected from various sources, including books, web blogs, and YouTube videos. For those questions collected from books, I commit to give the proper credit to the respective authors and encourage you to buy the books to support the authors. If you find any incorrect information in my proposed answers, please feel free to contribute by correcting them or letting me know. I do hope this repository is helpful to those who are preparing for data science interviews. 
+This repository is a curated list of questions and answers related to the broad field of data science. The questions are collected from various sources, including books, web blogs, and YouTube videos. For questions derived from books, I make sure to credit the respective authors and encourage you to buy the books in support. If you find any incorrect information in my proposed answers, I welcome contributions for corrections or feedback. I hope this repository is beneficial for those preparing for data science interviews. 
 
 The curated repository includes the following categories:
 * Probability Interview Questions & Answers for Data Scientists (COMING SOON)
