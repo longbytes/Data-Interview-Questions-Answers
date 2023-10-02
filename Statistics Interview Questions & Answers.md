@@ -14,21 +14,19 @@
 * How would you differentiate between descriptive and inferential statistics?
 * What do you understand by the term "normal distribution"? Why is it important in statistics?
 * What is the importance of the median and mode in statistical analysis?
+* What are outliers? How might they affect your analysis, and how would you deal with them?
+* Explain the difference between an independent and a dependent variable.
+* How would you handle missing data in your dataset?
+* Explain the concept of variance and standard deviation.
+* Explain the difference between one-tailed and two-tailed tests.
+* What do you understand by the term "statistical significance"?
 * Explain the concept of variance and standard deviation.
 * Explain the difference between one-tailed and two-tailed tests.
 * What do you understand by the term "statistical significance"?
 * Describe the difference between cross-sectional and longitudinal data.
-* What are outliers? How might they affect your analysis, and how would you deal with them?
-* Explain the difference between an independent and a dependent variable.
 * Describe the Law of Large Numbers and its importance.
 * How would you assess the reliability and validity of a dataset?
 * Describe the difference between a parametric and a non-parametric test.
-* Explain the concept of R-squared value in regression analysis.
-* Describe the concept of multicollinearity and how it can impact regression analysis.
-* What is a Box-Cox transformation and why might you use it?
-* How would you handle missing data in your dataset?
-* Describe the concept of a Chi-square test and when it might be used.
-* Explain the idea behind the bootstrap method in statistics.
 
 ## Medium to Hard 
 * [How would you derive a confidence interval for the probability of flipping heads from a series of coin tosses?](https://github.com/longnguyendata/Interview-Answers/tree/main#ace-the-data-science-interview-book) (Google)
@@ -36,5 +34,10 @@
 * [What are MLE and MAP? What is the difference between the two?](https://github.com/longnguyendata/Interview-Answers/tree/main#ace-the-data-science-interview-book) (Netflix)
 * [Derive the expectation for a geometric random variable.](https://github.com/longnguyendata/Interview-Answers/tree/main#ace-the-data-science-interview-book) (Facebook)
 * [Describe what a Moment Generating Function (MGF) is. Derive the MGF for a normally distributed random variable X.](https://github.com/longnguyendata/Interview-Answers/tree/main#ace-the-data-science-interview-book) (Morgan Stanley)
+* Explain the concept of R-squared value in regression analysis.
+* Describe the concept of multicollinearity and how it can impact regression analysis.
+* What is a Box-Cox transformation and why might you use it?
+* Describe the concept of a Chi-square test and when it might be used.
+* Explain the idea behind the bootstrap method in statistics.
 
 *For more interview questions, you can check out the book "Ace the Data Science Interview" (2021) by Nick Singh and Kevin Huo.*
