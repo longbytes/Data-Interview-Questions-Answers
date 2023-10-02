@@ -6,6 +6,7 @@
 * [What are some common pitfalls encountered in A/B testing?](https://github.com/longnguyendata/Interview-Answers/tree/main#ace-the-data-science-interview-book) (Twitter)
 * [Explain both covariance and correlation formulaically, and compare and contrast them.](https://github.com/longnguyendata/Interview-Answers/tree/main#ace-the-data-science-interview-book) (Lyft)
 * [Describe hypothesis testing and p-values in layman's terms.](https://github.com/longnguyendata/Interview-Answers/tree/main#ace-the-data-science-interview-book) (Uber)
+* [Give an example of hypothesis testing and p-values in layman's terms.]()
 * [Describe what Type I and Type II errors are, and the trade-offs between them.](https://github.com/longnguyendata/Interview-Answers/tree/main#ace-the-data-science-interview-book) (Groupon)
 * [Explain the statistical background behind power.](https://github.com/longnguyendata/Interview-Answers/tree/main#ace-the-data-science-interview-book) (Microsoft)
 * [What is a Z-test and when should you use it versus a t-test?](https://github.com/longnguyendata/Interview-Answers/tree/main#ace-the-data-science-interview-book) (Facebook)
