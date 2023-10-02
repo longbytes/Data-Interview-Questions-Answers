@@ -6,7 +6,7 @@ This repository is a curated list of questions and answers related to the broad 
 The curated repository includes the following categories:
 * Probability Interview Questions & Answers (COMING SOON)
 * Statistics Interview Questions & Answers (COMING SOON)
-* [SQL & Database Interview Questions & Answers for Data Engineers & Data Scientists]()
+* [SQL & Database Interview Questions & Answers for Data Engineers & Data Scientists](https://github.com/longnguyendata/Data-Interview-Questions-Answers/blob/main/SQL%20%26%20Database%20Interview%20Questions%20%26%20Answers.md)
 * Python Interview Questions & Answers (COMING SOON)
 * Machine Learning Interview Questions & Answers (COMING SOON)
-* Data Engineering Interview Questions & Answers
+* [Data Engineering Interview Questions & Answers](https://github.com/longnguyendata/Data-Interview-Questions-Answers/blob/main/Data%20Engineering%20Interview%20Questions%20Answers.md)
