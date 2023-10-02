@@ -7,7 +7,7 @@ The following list starts with foundational concepts and progressively gets into
 * [How do I choose the right primary key for my table?](https://github.com/longnguyendata/Interview-Answers/tree/main#how-do-i-choose-the-right-primary-key-for-my-table)
 * [What is the foreign key, and why is it important? How does it relate to a primary key?](https://github.com/longnguyendata/Interview-Answers/tree/main#what-is-the-foreign-key-and-why-is-it-important) (KPMG)
 * [What is a database view? What are some advantages views have over tables?](https://github.com/longnguyendata/Interview-Answers/tree/main#ace-the-data-science-interview-book---sqldb) (Facebook)
-* Describe some advantages and disadvantages of relational databases vs. NoSQL databases. (Amazon)
+* [Describe some advantages and disadvantages of relational databases vs. NoSQL databases.](https://github.com/longnguyendata/Interview-Answers/tree/main#compare-relational-databases-vs-nosql-databases) (Amazon)
 * What is normalization, and why is it important?
 * Explain Indexing.
 * What is ACID, and how does it relate to database transactions?
