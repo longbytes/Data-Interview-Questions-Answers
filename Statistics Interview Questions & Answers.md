@@ -17,7 +17,7 @@
 * What are outliers? How might they affect your analysis, and how would you deal with them?
 * Explain the difference between an independent and a dependent variable.
 * How would you handle missing data in your dataset?
-* Explain the concept of variance and standard deviation.
+* [Explain the concept of variance and standard deviation.](https://github.com/longnguyendata/Interview-Answers/tree/main#explain-the-concept-of-variance-and-standard-deviation)
 * Explain the difference between one-tailed and two-tailed tests.
 * What do you understand by the term "statistical significance"?
 * Explain the concept of variance and standard deviation.
