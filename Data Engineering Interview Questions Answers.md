@@ -7,10 +7,12 @@ The list starts with foundational concepts about the domain of data engineering,
 * What is the difference between a data analyst and a data engineer?
 * Explain the main responsibilities of a data engineer.
 * What is Data Modelling?
-* What is data modeling, and how do you approach it?
+* What is data modelling, and how do you approach it?
 * Describe various types of design schemas in Data Modelling.
-* Explain the STAR schema in detail.
-* Explain the SnowFlake schema in detail with example.
+* What is the difference between Snowflake vs. Star Schema? (Walmart, [source](https://medium.com/@03nishchayagarwal/senior-data-engineer-experience-at-Walmart-3eb11aba1cdd))
+* Explain the Star schema in detail.
+* Explain the SnowFlake schema in detail with examples.
+* What is SCD-2 Type with example? (Walmart, [source](https://medium.com/@03nishchayagarwal/senior-data-engineer-experience-at-Walmart-3eb11aba1cdd))
 * What is Big Data?
 * What are the four V’s of big data?
 * What is the difference between a data lake and a data warehouse?
@@ -21,16 +23,16 @@ The list starts with foundational concepts about the domain of data engineering,
 * Explain how data analytics and big data can increase company revenue.
 * What are the three main types of Big Data in data engineering, and how are they different from each other?
 * What is Hadoop, and what are its components?
-* Explain Hadoop distributed file system in detail.
+* Explain the Hadoop distributed file system in detail.
 * What is NameNode?
 * Define Block and Block Scanner in HDFS.
-* What happens when Block Scanner detects a corrupted data block.
-* Explain about messages that NameNode gets from DataNode?
+* What happens when Block Scanner detects a corrupted data block.?
+* Explain the messages that NameNode gets from DataNode.
 * What is Rack Awareness?
 * What is a Heartbeat message?
 * What is Apache Spark, and how is it different from Hadoop’s MapReduce?
 * What is a spark execution plan?
-* What is executor memory in spark?
+* What is executor memory in SparkSpark?
 * What is a Spark driver, and what is its role in a Spark application?
 * What is Spark Streaming, and how does it differ from batch processing in Spark?
 * What is a Spark job, and how is it executed in a Spark cluster?
