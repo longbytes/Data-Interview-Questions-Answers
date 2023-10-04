@@ -8,13 +8,17 @@ The following list starts with foundational concepts and progressively gets into
 * [What is the foreign key, and why is it important? How does it relate to a primary key?](https://github.com/longnguyendata/Interview-Answers/tree/main#what-is-the-foreign-key-and-why-is-it-important) (KPMG)
 * [What is a database view? What are some advantages views have over tables?](https://github.com/longnguyendata/Interview-Answers/tree/main#ace-the-data-science-interview-book---sqldb) (Facebook)
 * [Describe some advantages and disadvantages of relational databases vs. NoSQL databases.](https://github.com/longnguyendata/Interview-Answers/tree/main#compare-relational-databases-vs-nosql-databases) (Amazon)
-* What is normalization, and why is it important?
+* What is Normalization, and why is it important?
+* What are Normalisation Concepts? (Walmart, [source](https://medium.com/@03nishchayagarwal/senior-data-engineer-experience-at-walmart-3eb11aba1cdd))
 * Explain Indexing.
 * What is ACID, and how does it relate to database transactions?
 * How do you handle duplicate data points in a SQL query?
 * What is data warehousing, and how does it differ from a traditional database?
 * Name one major similarity and difference between a WHERE clause and a HAVING clause in SQL. (Amazon)
 * Describe what a clustered index and a non-clustered index are. Compare and contrast the two. (Microsoft)
+* What is the difference between Snowflake vs. Star Schema? (Walmart, [source](https://medium.com/@03nishchayagarwal/senior-data-engineer-experience-at-walmart-3eb11aba1cdd))
+* How will you design the data warehouse from scratch if you have new requirements? (Walmart, [source](https://medium.com/@03nishchayagarwal/senior-data-engineer-experience-at-walmart-3eb11aba1cdd))
+* What is SCD-2 Type with example? (Walmart, [source](https://medium.com/@03nishchayagarwal/senior-data-engineer-experience-at-walmart-3eb11aba1cdd))
 
 ## Medium to Hard ## 
 * How would you optimize a SQL query to run faster?
@@ -22,3 +26,4 @@ The following list starts with foundational concepts and progressively gets into
 * [Say you want to set up a MapReduce job to implement a shuffle operator, whose input is a dataset and whose output is a randomly ordered version of that same dataset. Describe the steps in the shuffle operator's algorithm at a high level.](https://github.com/longnguyendata/Interview-Answers/tree/main#ace-the-data-science-interview-book---sqldb) (Capital One)
 * [Say you have the entire Facebook social graph (users and their friendships). How would you use MapReduce to find the number of mutual friends for every pair of Facebook users?](https://github.com/longnguyendata/Interview-Answers/tree/main#ace-the-data-science-interview-book---sqldb) (Facebook) 
 * [Assume you are tasked with designing a large-scale system that tracks a variety of search query strings and their frequencies. How would you design this, and what trade-offs would you need to consider?](https://github.com/longnguyendata/Interview-Answers/tree/main#ace-the-data-science-interview-book---sqldb) (Google)
+* 
