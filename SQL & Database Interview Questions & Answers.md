@@ -14,11 +14,10 @@ The following list starts with foundational concepts and progressively gets into
 * What is ACID, and how does it relate to database transactions?
 * How do you handle duplicate data points in a SQL query?
 * What is data warehousing, and how does it differ from a traditional database?
+* How will you design the data warehouse from scratch if you have new requirements? (Walmart, [source](https://medium.com/@03nishchayagarwal/senior-data-engineer-experience-at-walmart-3eb11aba1cdd))
 * Name one major similarity and difference between a WHERE clause and a HAVING clause in SQL. (Amazon)
 * Describe what a clustered index and a non-clustered index are. Compare and contrast the two. (Microsoft)
-* What is the difference between Snowflake vs. Star Schema? (Walmart, [source](https://medium.com/@03nishchayagarwal/senior-data-engineer-experience-at-walmart-3eb11aba1cdd))
-* How will you design the data warehouse from scratch if you have new requirements? (Walmart, [source](https://medium.com/@03nishchayagarwal/senior-data-engineer-experience-at-walmart-3eb11aba1cdd))
-* What is SCD-2 Type with example? (Walmart, [source](https://medium.com/@03nishchayagarwal/senior-data-engineer-experience-at-walmart-3eb11aba1cdd))
+
 
 ## Medium to Hard ## 
 * How would you optimize a SQL query to run faster?
