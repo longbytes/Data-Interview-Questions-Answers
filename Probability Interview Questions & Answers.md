@@ -93,3 +93,74 @@
 - What's the probability of rolling a sum of 7 with two six-sided dice?
 - If you roll a fair six-sided die three times, what is the probability of rolling at least one 6?
 - How would you calculate the expected value of a single die roll?
+
+## Hard
+### The Bayes Theorem
+- Given two correlated events A and B, where event B has a known probability distribution, how would you leverage Bayes' theorem to estimate the distribution of event A when B is observed?
+- How would you deal with situations where the prior probabilities required for Bayes' theorem are not available or are unreliable?
+- Discuss the potential pitfalls of using Bayes' theorem in model updating and prediction in a real-world application you've encountered.
+
+### Conditional Probability
+- In a Bayesian network with multiple nodes and dependencies, how do you calculate the conditional probability of an event considering evidence from multiple observed variables?
+- Discuss a scenario where naive assumptions about conditional independence could lead to incorrect results.
+- Given a high-dimensional dataset, how would you estimate conditional probabilities without running into the "curse of dimensionality"?
+
+### Normal Distribution
+- Explain how skewness and kurtosis can affect the applicability of the normal distribution in modeling real-world data.
+- Describe a scenario where a normal distribution assumption in a machine learning model led to poor results.
+- Discuss methods for assessing the normality of a dataset and potential transformations that can be applied.
+
+### Uniform Distribution
+- In the context of Monte Carlo simulations, discuss potential issues with relying solely on uniformly generated random numbers.
+- How can you test whether a given set of data follows a continuous uniform distribution, especially in high dimensions?
+- Discuss the impact of discretization or binning on a truly continuous uniform variable.
+
+### Bernoulli Distribution
+- Describe the relationship between the Bernoulli and binomial distributions in the context of Bayesian modelling.
+- Discuss potential issues when using a Bernoulli-distributed variable as a feature in machine learning models.
+- Given a set of data that should follow a Bernoulli distribution, explain methods to detect outliers.
+
+### Binomial Distribution
+- Discuss the relationship between the binomial and Poisson distributions and the conditions under which they become equivalent.
+- Given a dataset believed to follow a binomial distribution, how would you validate this assumption?
+- Describe potential issues when modelling a highly imbalanced binary outcome using the binomial distribution.
+
+### Geometric Distribution
+- Discuss the memoryless property of the geometric distribution in the context of queueing models.
+- In modelling time-to-event data, under what conditions would a geometric distribution be more appropriate than an exponential distribution?
+- Given a time series that's believed to follow a geometric distribution, describe a methodology to test this hypothesis.
+
+### Poisson Distribution
+- Describe the relationship between the Poisson and exponential distributions in terms of events and inter-event times.
+- Discuss potential issues in using the Poisson distribution to model rare events.
+- Given a dataset of events over time, how would you test for overdispersion relative to a Poisson assumption?
+
+### Exponential Distribution
+- In reliability analysis, how is the exponential distribution used to model component failures?
+- Describe a method to test if time-to-event data deviates from an exponential distribution due to a non-constant hazard function.
+- Discuss the differences and similarities between the exponential and geometric distributions in modelling time-to-event data.
+
+### Deriving the Mean and Variance of Distributions
+- Discuss the implications of infinite mean or variance in the context of modelling financial data.
+- Describe a scenario where using higher moments (beyond mean and variance) significantly impacted a model's performance.
+- How do you handle issues of non-finite mean or variance in practical data analysis?
+
+### Central Limit Theorem
+- Describe a situation where the assumptions of the Central Limit Theorem do not hold, and discuss potential remedies.
+- How would you determine the minimum sample size needed for the Central Limit Theorem to give a reasonably accurate approximation?
+- Discuss the implications of heavy-tailed distributions in the context of the Central Limit Theorem.
+
+### The Birthday Problem
+- Extend the Birthday problem to consider the probability that at least three people share the same birthday in a group. How does the result compare to the classic problem?
+- How would you generalize the Birthday problem to a situation with a non-uniform distribution of birthdays?
+- Discuss the real-world implications of the Birthday problem in the context of hashing and cybersecurity.
+
+### Card Probability Problems
+- What is the probability of drawing a sequence of King, Queen, and Jack (in that order) from a shuffled deck without replacement?
+- Given a hand of 5 cards, how would you calculate the probability of it being a specific type of poker hand, such as a full house?
+- Discuss the computational challenges and potential solutions in evaluating probabilities in complex card games like bridge.
+
+14. Die Roll Problems
+- Given a biased die where the probability of rolling a 6 is twice as likely as rolling any other single number, calculate the entropy of this die.
+- Discuss the implications of using a non-fair die in statistical simulations and potential methods for correction.
+- Given a sequence of die rolls, how would you test the hypothesis that the die is fair?
