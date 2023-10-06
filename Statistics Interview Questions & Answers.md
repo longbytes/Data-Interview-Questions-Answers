@@ -2,7 +2,7 @@
 
 ---
 ## KEY CONCEPTS
-**Note: Before jumping into the list of questions and answers, it is helpful to review the following list of key concepts.**
+**Note: Before jumping into the list of questions and answers, it's beneficial to review the following key concepts.**
 
 ## Basic Statistical Concepts
 - Univariate statistics - mean, median, mode
