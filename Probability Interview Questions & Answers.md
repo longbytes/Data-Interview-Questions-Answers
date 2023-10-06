@@ -1,4 +1,4 @@
-# Probability & Distributions Interview Questions & Answers
+# Probability Interview Questions & Answers
 
 ---
 ## KEY CONCEPTS
