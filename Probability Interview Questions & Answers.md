@@ -3,7 +3,7 @@
 ---
 **Note:**
 - Before jumping into the list of questions and answers, it's beneficial to review the following key concepts.
-- For each concept, ask yourself this question to make sure you grasp the definition and applications: "Explain [the concept] in your own words and describe a real-world situation where it can be applied."
+- For each concept, ask yourself this question to make sure you grasp the definition and applications: "Explain [the concept] in layman's terms and describe a real-world situation where it can be applied."
 ## KEY CONCEPTS
 - The Bayes Theorem
 - Conditional probability
