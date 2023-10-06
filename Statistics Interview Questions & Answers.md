@@ -1,5 +1,38 @@
 # Statistics Interview Questions & Answers
 
+---
+## KEY CONCEPTS
+**Note: Before jumping into the list of questions and answers, it is helpful to review the following list of key concepts.**
+
+## Basic Statistical Concepts
+- Univariate statistics - mean, median, mode
+- Standard deviation and variance
+- Covariance and correlation
+- Population and sample
+- Nominal, ordinal and continuous, discrete data types
+- P-Value & Significance Level
+- The Simpson’s Paradox
+- Selection Bias
+
+## Hypothesis Testing
+- Hypothesis Statements
+- Z-Test
+- T-Test
+- T-Test for sample means
+- T-Test for proportions
+- Paired and unpaired T-Tests
+- Variance test
+- ANOVA
+- Chi-Squared test
+- Goodness of Fit test for categorical data
+- Nominal, ordinal and continuous, discrete data types
+- Pairwise tests
+- T-Test assumptions
+- Non-parametric tests
+- Type 1 & 2 Errors
+
+---
+## QUESTIONS
 ## Easy 
 * [Explain the Central Limit Theorem. Why is it useful?](https://github.com/longnguyendata/Interview-Answers/tree/main#ace-the-data-science-interview-book) (Uber)
 * [How would you explain a confidence interval to a non-technical audience?](https://github.com/longnguyendata/Interview-Answers/tree/main#ace-the-data-science-interview-book) (Facebook)
