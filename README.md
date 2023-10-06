@@ -7,6 +7,6 @@ The curated repository includes the following categories:
 * [Probability Interview Questions & Answers](https://github.com/longnguyendata/Data-Interview-Questions-Answers/blob/main/Probability%20Interview%20Questions%20%26%20Answers.md)
 * [Statistics Interview Questions & Answers](https://github.com/longnguyendata/Data-Interview-Questions-Answers/blob/main/Statistics%20Interview%20Questions%20%26%20Answers.md)
 * [SQL & Database Interview Questions & Answers](https://github.com/longnguyendata/Data-Interview-Questions-Answers/blob/main/SQL%20%26%20Database%20Interview%20Questions%20%26%20Answers.md)
-* Python Interview Questions & Answers (COMING SOON)
-* Machine Learning Interview Questions & Answers (COMING SOON)
+* [Python Interview Questions & Answers](https://github.com/longnguyendata/Data-Interview-Questions-Answers/blob/main/Python%20Interview%20Questions%20%26%20Answers.md)
+* [Machine Learning Interview Questions & Answers](https://github.com/longnguyendata/Data-Interview-Questions-Answers/blob/main/Machine%20Learning%20Interview%20Questions%20%26%20Answers.md)
 * [Data Engineering Interview Questions & Answers](https://github.com/longnguyendata/Data-Interview-Questions-Answers/blob/main/Data%20Engineering%20Interview%20Questions%20Answers.md)
